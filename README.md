@@ -27,7 +27,7 @@ the unweighted loss function, with an accuracy of 81.18% vs
 >![results-3](img/3.png)</br>
 >Validation performances of the single trainedmodels.
 
-*The final accuracy of our project is 81.18%with a F1 score of 0.77.*
+*The final accuracy of our project is 81.18% with a F1 score of 0.77.*
 
 
 
