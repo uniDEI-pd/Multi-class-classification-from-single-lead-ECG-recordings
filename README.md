@@ -1,5 +1,5 @@
 # Multi-class classification from single lead ECG recordings
-This is a project made for a *Human Data Analytics* class during a master course in ICT.
+This is a project made for a *Human Data Analytics* class during a Master's degree course in ICT.
 </br></br>
 **Abstract**
 >The automatic classification of heart rhythms using
